@@ -1,5 +1,0 @@
-Alex,ID,9.31,1
-Andrei,IF,8.89,2
-Mara,ID,9.91,3
-Maria,ID,6.78,4
-Madalina,IF,8.89,5
